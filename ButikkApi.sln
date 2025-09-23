@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButikkApi", "ButikkApi\ButikkApi.csproj", "{38597323-1114-4557-AD27-C4E69A733C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Butikk.Data", "Butikk.Data\Butikk.Data.csproj", "{B481AE00-D50A-4BC8-A4FB-A465603999D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Butikk.Logic", "Butikk.Logic\Butikk.Logic.csproj", "{8480988D-61EA-4033-AEBE-47A702DB1C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38597323-1114-4557-AD27-C4E69A733C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38597323-1114-4557-AD27-C4E69A733C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38597323-1114-4557-AD27-C4E69A733C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38597323-1114-4557-AD27-C4E69A733C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B481AE00-D50A-4BC8-A4FB-A465603999D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B481AE00-D50A-4BC8-A4FB-A465603999D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B481AE00-D50A-4BC8-A4FB-A465603999D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B481AE00-D50A-4BC8-A4FB-A465603999D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8480988D-61EA-4033-AEBE-47A702DB1C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8480988D-61EA-4033-AEBE-47A702DB1C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8480988D-61EA-4033-AEBE-47A702DB1C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8480988D-61EA-4033-AEBE-47A702DB1C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
